@@ -3,4 +3,4 @@ Git is free software under CPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch--dev.
-Create a new branch is quick & simple.
+Creating a new branch s quick and simple.
